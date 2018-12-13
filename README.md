@@ -1,4 +1,4 @@
-# Kubespray - k8s on centos7 [ barematal / virtual machine]
+# Kubespray - k8s on centos7 [ baremetal / virtual machine]
 
 Ansible playbook to configure prerequisites for Kubespray on CentOS7
 
